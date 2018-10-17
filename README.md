@@ -19,7 +19,6 @@ Let's start by saying who we are!
 - Francesc Campoy
 - Derrick Gee
 - Heggy Castañeda
-- Erin Song
 
 ## Finding issues to fix
 
